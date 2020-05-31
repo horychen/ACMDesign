@@ -883,6 +883,7 @@
 	],
 	"file_history":
 	[
+		"/D/DrH/acmdesign/bare_template_pygmo__Nishanth.py",
 		"/D/DrH/bopt-python/codes3/bare_template_pygmo__Nishanth.py",
 		"/D/DrH/[00]GetWorking/35 ISMB2020_Pole_Specific_Design/single_layer_coil_pitch_proof.py",
 		"/D/DrH/bopt-python/codes3/main.py",
@@ -1009,8 +1010,7 @@
 		"/D/Users/horyc/Documents/MAC addr2.txt",
 		"/F/Dr.H/CCSWS2/ACMExpr_3phIM/DSP2833x_common/source/DSP2833x_EPwm.c",
 		"/F/Setup/AD19 和谐包/AD19破解指南.txt",
-		"/D/DrH/bopt-python/release/magnet_ec_negative_effect_plot/magnet_ec_negative_effect_plot.py",
-		"/C/Users/horyc/clo.ahk"
+		"/D/DrH/bopt-python/release/magnet_ec_negative_effect_plot/magnet_ec_negative_effect_plot.py"
 	],
 	"find":
 	{
@@ -1364,6 +1364,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"bare",
+				"bare_template_pygmo__Nishanth.py"
+			],
 			[
 				"acmde",
 				"codes3\\acm_designer.py"
@@ -1871,10 +1875,6 @@
 			[
 				"main_pos",
 				"codes3\\main_post_processing_pm.py"
-			],
-			[
-				"mahinesimul",
-				"codes3\\machine_simulation.json"
 			]
 		],
 		"width": 0.0
